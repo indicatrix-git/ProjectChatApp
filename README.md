@@ -13,6 +13,12 @@ WPF Client 1
 WPF Client 2
 ```
 
+## Screenshot aplikácie
+
+Dvaja klienti komunikujúci v reálnom čase:
+
+![Screenshot aplikácie](docs/screenshot.png)
+
 ---
 
 ## Čo potrebuješ
@@ -143,6 +149,8 @@ ChatClient/                      (WPF, MVVM)
   Views/ChatWindow.xaml          - hlavné chat okno
   Services/ApiService.cs         - REST volania
   Services/SignalRService.cs     - SignalR pripojenie
+docs/
+  screenshot.png                 - screenshot aplikácie (použitý v tomto README)
 ```
 
 ---
