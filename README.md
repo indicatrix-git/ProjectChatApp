@@ -17,7 +17,7 @@ WPF Client 2
 
 Dvaja klienti komunikujúci v reálnom čase:
 
-![Screenshot aplikácie](docs/screenshot.png)
+![Screenshot aplikácie](screenshotChatApp.png)
 
 ---
 
